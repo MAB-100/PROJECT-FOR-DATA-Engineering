@@ -20,10 +20,23 @@ def extract():
     log_progress("Task 2: Starting data extraction from Wikipedia.")
     url = "https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks"
     response = requests.get(url)
+
+    # print("\n\n\n\n\n\n\n\n")
+    # print(response.text)
+    # print("\n\n\n\n\n\n\n\n")
+
     soup = BeautifulSoup(response.text, 'html.parser')
     
+    # print("\n\n\n\n\n\n\n\n")
+    # print(soup)
+    # print("\n\n\n\n\n\n\n\n")
+
     # Locate the table by inspecting the webpage structure
     table = soup.find('table', {'class': 'wikitable'})
+    # print("\n\n\n\n\n\n\n\n")
+    # print(str(table))
+    # print("\n\n\n\n\n\n\n\n")
+
     df = pd.read_html(str(table))[0]
     # print("\n\n\n\n\n\n\n\n")
     # print(df.columns)
@@ -102,5 +115,3 @@ with open(LOG_FILE, 'r') as file:
     logs = file.read()
     log_progress(f"Log file contents:\n{logs}")
 log_progress("Task 7: Verification completed.")
-
-# End of script

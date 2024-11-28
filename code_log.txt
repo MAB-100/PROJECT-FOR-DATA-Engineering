@@ -51,3 +51,1233 @@ INFO:root:Task 6: Queries executed successfully.
 INFO:root:Task 7: Verifying log entries.
 
 INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+INFO:root:Log file contents:
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
+INFO:root:Task 1: Initialized logging.
+INFO:root:Task 2: Starting data extraction from Wikipedia.
+INFO:root:Task 2: Data extraction completed successfully.
+INFO:root:Task 3: Starting data transformation.
+INFO:root:Task 3: Data transformation completed successfully.
+INFO:root:Task 4: Saving data to CSV file.
+INFO:root:Task 4: Data saved to CSV successfully.
+INFO:root:Task 5: Loading data to SQLite database.
+INFO:root:Task 5: Data loaded to database successfully.
+INFO:root:Task 6: Running queries on the database.
+INFO:root:Top 5 Banks by Market Cap: [('JPMorgan Chase', 432.92, 346.34, 402.62, 35910.71), ('Bank of America', 231.52, 185.22, 215.31, 19204.58), ('Industrial and Commercial Bank of China', 194.56, 155.65, 180.94, 16138.75), ('Agricultural Bank of China', 160.68, 128.54, 149.43, 13328.41), ('HDFC Bank', 157.91, 126.33, 146.86, 13098.63)]
+INFO:root:Task 6: Queries executed successfully.
+INFO:root:Task 7: Verifying log entries.
+
+INFO:root:Task 7: Verification completed.
